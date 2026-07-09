@@ -1,13 +1,4 @@
-CodTech Internship – Cybersecurity and Ethical Hacking Tasks
 
-Intern Name: Bhargavi
-Domain: CS & EH
-Organization: CodTech
-
-
- Overview
-
-This repository contains the cybersecurity and Ethical Hacking internship tasks completed as part of the CodTech Internship Program. The projects focus on practical security implementations including:
 
 File Integrity Monitoring
 
